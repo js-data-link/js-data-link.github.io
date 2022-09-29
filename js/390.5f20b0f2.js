@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjsproj_web"]=self["webpackChunkjsproj_web"]||[]).push([[390],{5390:function(n,s,t){t.r(s),t.d(s,{default:function(){return i}});var u=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"coming"},[s("h1",[n._v("待开发")])])}],r=t(1001),l={},c=(0,r.Z)(l,u,e,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=390.5f20b0f2.js.map
