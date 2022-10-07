@@ -3,7 +3,7 @@
   "1081":{"attrs":[{"type":"装备技","values":[{"attr":"回内比","value":"0.1"},{"attr":"回伤","value":"10"},{"attr":"回体","value":"5"},{"attr":"回气","value":"2"}]}]},
   "1083":{"attrs":[{"type":"装备技","debuffs":[{"attr":"击退","value":"0.1","rate":"0.2"}]}]},
   "983":{"attrs":[{"type":"装备技","values":[{"attr":"突防","value":"0.2"},{"attr":"破甲","value":"0.2"}]}]},
-  "779":{"attrs":[{"type":"装备技","values":[{"attr":"战系","value":"1.2"}]}]},
+  "779":{"attrs":[{"type":"装备技","values":[{"attr":"场系","value":"1.2"}]}]},
   "267":{"attrs":[{"type":"装备技","values":[{"attr":"裸系","value":"1.15"}]}]},
   "289":{"attrs":[{"type":"装备技","values":[{"attr":"裸系","value":"1.1"}]}]},
   "759":{"attrs":[{"type":"装备技","values":[{"attr":"解除异常","value":"1"},{"attr":"杀内比","value":"0.05"},{"attr":"攻击回内","value":"100"}]}]},
