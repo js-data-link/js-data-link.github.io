@@ -2,5 +2,9 @@
   {
     "name": "v5.63K13",
     "path": "latest"
+  },
+  {
+    "name": "v5.63K11",
+    "path": "prev"
   }
 ]
