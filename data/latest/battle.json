@@ -1038,7 +1038,7 @@
   {"id":1036,"name":"陈友谅","field":168,"bgm":102,"friends":[],"teams":[0],"enemies":[2164],"events":[2195]},
   {"id":1037,"name":"韦一笑","field":92,"bgm":102,"friends":[],"teams":[0],"enemies":[14],"events":[2137]},
   {"id":1038,"name":"井月神刀","field":15,"bgm":102,"friends":[],"teams":[0,229,56],"enemies":[476,636,726,544],"events":[1591]},
-  {"id":1039,"name":"无崖子","field":19,"bgm":94,"friends":[57],"teams":[56],"enemies":[820,455],"events":[3075]},
+  {"id":1039,"name":"朱大天王","field":19,"bgm":94,"friends":[57],"teams":[56],"enemies":[820,455],"events":[3075]},
   {"id":1040,"name":"无崖子","field":85,"bgm":94,"friends":[],"teams":[0,76],"enemies":[116],"events":[1729]},
   {"id":1041,"name":"二段之战","field":30,"bgm":94,"friends":[108],"teams":[],"enemies":[98],"events":[1759]},
   {"id":1042,"name":"余鱼同","field":132,"bgm":94,"friends":[],"teams":[0],"enemies":[382],"events":[2712]},
