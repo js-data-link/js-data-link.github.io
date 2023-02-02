@@ -178,6 +178,6 @@
   "176":{"id":176,"weaponId":995,"armorId":69,"petId":509,"bsId":-1,"fsId":502,"atk":50,"def":"","agi":"","fs":"","ss":30,"ws":20,"rs":"","ts":"","talentId":858,"name":"仙都套装","suitKey":"995-69-509"},
   "177":{"id":177,"weaponId":989,"armorId":62,"petId":277,"bsId":961,"fsId":932,"atk":"","def":"","agi":"","fs":250,"ss":"","ws":"","rs":"","ts":"","talentId":514,"name":"妖皇套装","suitKey":"989-62-277"},
   "178":{"id":178,"weaponId":988,"armorId":638,"petId":277,"bsId":961,"fsId":750,"atk":300,"def":"","agi":-50,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":208,"name":"天帝套装","suitKey":"988-638-277"},
-  "179":{"id":179,"weaponId":985,"armorId":986,"petId":987,"bsId":938,"fsId":928,"atk":"","def":"","agi":"","fs":"","ss":"","ws":250,"rs":"","ts":"","talentId":1053,"name":"文龙套装","suitKey":"985-986-987"},
+  "179":{"id":179,"weaponId":985,"armorId":986,"petId":987,"bsId":938,"fsId":751,"atk":"","def":"","agi":"","fs":"","ss":"","ws":250,"rs":"","ts":"","talentId":1053,"name":"文龙套装","suitKey":"985-986-987"},
   "180":{"id":180,"weaponId":997,"armorId":998,"petId":999,"bsId":927,"fsId":960,"atk":"","def":"","agi":"","fs":50,"ss":50,"ws":50,"rs":50,"ts":50,"talentId":806,"name":"希卡套装","suitKey":"997-998-999"}
 }
