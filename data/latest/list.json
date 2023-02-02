@@ -43,7 +43,7 @@
   {"itemId":90,"matchSkillId":79,"power":100},
   {"itemId":93,"matchSkillId":907,"power":300},
   {"itemId":383,"matchSkillId":394,"power":400},
-  {"itemId":1003,"matchSkillId":263,"power":500},
+  {"itemId":993,"matchSkillId":263,"power":500},
   {"itemId":385,"matchSkillId":716,"power":300},
   {"itemId":386,"matchSkillId":326,"power":200},
   {"itemId":387,"matchSkillId":35,"power":300},
@@ -177,15 +177,14 @@
   {"itemId":975,"matchSkillId":1028,"power":500},
   {"itemId":978,"matchSkillId":453,"power":500},
   {"itemId":981,"matchSkillId":662,"power":500},
-  {"itemId":985,"matchSkillId":460,"power":500},
+  {"itemId":985,"matchSkillId":1023,"power":500},
   {"itemId":606,"matchSkillId":489,"power":500},
   {"itemId":989,"matchSkillId":635,"power":500},
   {"itemId":988,"matchSkillId":587,"power":500},
-  {"itemId":1001,"matchSkillId":683,"power":400},
-  {"itemId":1002,"matchSkillId":334,"power":500},
-  {"itemId":1004,"matchSkillId":376,"power":300},
-  {"itemId":1005,"matchSkillId":80,"power":300},
-  {"itemId":1006,"matchSkillId":1028,"power":500}
+  {"itemId":991,"matchSkillId":683,"power":400},
+  {"itemId":992,"matchSkillId":334,"power":500},
+  {"itemId":994,"matchSkillId":376,"power":300},
+  {"itemId":995,"matchSkillId":80,"power":300}
 ],
   "match2":
 [
@@ -387,7 +386,7 @@
   {"skillId":935,"matchSkillId":7,"power":500},
   {"skillId":1074,"matchSkillId":468,"power":500},
   {"skillId":734,"matchSkillId":264,"power":200},
-  {"skillId":1085,"matchSkillId":335,"power":300},
+  {"skillId":267,"matchSkillId":183,"power":400},
   {"skillId":735,"matchSkillId":90,"power":300},
   {"skillId":736,"matchSkillId":459,"power":200},
   {"skillId":737,"matchSkillId":77,"power":300},
@@ -735,11 +734,11 @@
   {"skillId":961,"matchSkillId":555,"power":300},
   {"skillId":927,"matchSkillId":555,"power":300},
   {"skillId":751,"matchSkillId":555,"power":300},
-  {"skillId":958,"matchSkillId":556,"power":300},
-  {"skillId":1081,"matchSkillId":556,"power":200},
-  {"skillId":960,"matchSkillId":556,"power":300},
-  {"skillId":746,"matchSkillId":556,"power":200},
-  {"skillId":750,"matchSkillId":556,"power":300},
+  {"skillId":928,"matchSkillId":1023,"power":300},
+  {"skillId":938,"matchSkillId":1023,"power":200},
+  {"skillId":751,"matchSkillId":1023,"power":300},
+  {"skillId":747,"matchSkillId":1023,"power":200},
+  {"skillId":779,"matchSkillId":1023,"power":300},
   {"skillId":750,"matchSkillId":555,"power":200},
   {"skillId":1007,"matchSkillId":555,"power":200},
   {"skillId":746,"matchSkillId":565,"power":300},
@@ -828,7 +827,9 @@
   {"skillId":958,"matchSkillId":1020,"power":300},
   {"skillId":957,"matchSkillId":353,"power":200},
   {"skillId":937,"matchSkillId":353,"power":300},
-  {"skillId":723,"matchSkillId":353,"power":300}
+  {"skillId":723,"matchSkillId":353,"power":300},
+  {"skillId":738,"matchSkillId":183,"power":300},
+  {"skillId":956,"matchSkillId":183,"power":300}
 ],
   "formation":
 [
@@ -993,7 +994,8 @@
   {"heroes":[2481,2651,2519,2652],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
   {"heroes":[2482,2667],"atk":100,"def":100,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[144,768],"atk":0,"def":0,"agi":50,"fs":0,"ss":70,"ws":0,"rs":0,"ts":30},
-  {"heroes":[25,73],"atk":0,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":50}
+  {"heroes":[25,73],"atk":0,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":50},
+  {"heroes":[817,1064,1009],"atk":0,"def":100,"agi":-50,"fs":0,"ss":0,"ws":100,"rs":0,"ts":50}
 ],
   "comprehend":
 [
