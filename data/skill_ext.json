@@ -75,7 +75,7 @@
   "903":{"attrs":[{"type":"状态","values":[{"attr":"清气","value":"1"}]}]},
   "904":{"attrs":[{"type":"状态","values":[{"attr":"攻系","value":"0.3"}]}]},
   "905":{"attrs":[{"type":"状态","values":[{"attr":"星璇反击","value":"1"}]}]},
-  "906":{"attrs":[{"type":"状态","classValues":[{"type":"御剑","attr":"攻系","value":"0.5"}]}]},
+  "906":{"attrs":[{"type":"状态","values":[{"attr":"单系系数","value":"0.5"}]}]},
   "908":{"attrs":[{"type":"状态","values":[{"attr":"万相反击","value":"1"}]}]},
   "910":{"attrs":[{"type":"状态","values":[{"attr":"三击","value":"1"}]}]},
   "979":{"grade":{"fixed":"1.5","desc":"天星阳极"}},
