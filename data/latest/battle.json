@@ -1391,5 +1391,6 @@
   {"id":1389,"name":"临安蒙金","field":197,"bgm":95,"friends":[62,157,158,159,823,664,618,224,2129],"teams":[],"enemies":[693,676,137,677,678,363,60,67,679],"events":[3022]},
   {"id":1390,"name":"黄蓉念慈","field":1,"bgm":95,"friends":[],"teams":[147],"enemies":[1429],"events":[3004]},
   {"id":1391,"name":"斩杀欧阳","field":124,"bgm":95,"friends":[],"teams":[78,147],"enemies":[1973,1974,1975,1976,1977,1978,1979,61],"events":[3037]},
-  {"id":1392,"name":"黄蓉语嫣","field":85,"bgm":91,"friends":[],"teams":[76],"enemies":[2502],"events":[3021]}
+  {"id":1392,"name":"黄蓉语嫣","field":85,"bgm":91,"friends":[],"teams":[76],"enemies":[2502],"events":[3021]},
+  {"id":1393,"name":"黄蓉语嫣","field":197,"bgm":91,"friends":[],"teams":[76],"enemies":[1429],"events":[3021]}
 ]
