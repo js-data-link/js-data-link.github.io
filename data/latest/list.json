@@ -179,7 +179,7 @@
   {"itemId":981,"matchSkillId":662,"power":500},
   {"itemId":985,"matchSkillId":1023,"power":500},
   {"itemId":606,"matchSkillId":489,"power":500},
-  {"itemId":989,"matchSkillId":635,"power":500},
+  {"itemId":989,"matchSkillId":1028,"power":500},
   {"itemId":988,"matchSkillId":587,"power":500},
   {"itemId":991,"matchSkillId":683,"power":400},
   {"itemId":992,"matchSkillId":334,"power":500},
@@ -847,7 +847,7 @@
   {"heroes":[155,156],"atk":100,"def":100,"agi":0,"fs":100,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[517,173,2123],"atk":100,"def":0,"agi":100,"fs":0,"ss":0,"ws":50,"rs":100,"ts":50},
   {"heroes":[653,654,655,656,657],"atk":300,"def":300,"agi":-200,"fs":0,"ss":0,"ws":100,"rs":0,"ts":0},
-  {"heroes":[2166,2167,2168,2169,2170,2171,2172],"atk":250,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
+  {"heroes":[2166,2167,2168,2169,2170,2164,2165],"atk":250,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[2030,2031,2032,2033,2034],"atk":0,"def":200,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[321,832],"atk":0,"def":100,"agi":0,"fs":0,"ss":100,"ws":0,"rs":0,"ts":0},
   {"heroes":[2144,813],"atk":50,"def":50,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
@@ -952,7 +952,7 @@
   {"heroes":[789,793,792],"atk":0,"def":0,"agi":100,"fs":0,"ss":50,"ws":0,"rs":100,"ts":0},
   {"heroes":[784,795],"atk":50,"def":100,"agi":50,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[1326,2442],"atk":100,"def":100,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
-  {"heroes":[57,56],"atk":0,"def":20,"agi":20,"fs":50,"ss":30,"ws":0,"rs":30,"ts":50},
+  {"heroes":[57,56],"atk":0,"def":50,"agi":50,"fs":50,"ss":0,"ws":0,"rs":0,"ts":50},
   {"heroes":[636,790],"atk":100,"def":100,"agi":100,"fs":40,"ss":40,"ws":40,"rs":40,"ts":40},
   {"heroes":[794,788],"atk":0,"def":0,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":200},
   {"heroes":[2258,2259],"atk":50,"def":50,"agi":50,"fs":20,"ss":20,"ws":20,"rs":20,"ts":20},
@@ -995,7 +995,9 @@
   {"heroes":[2482,2667],"atk":100,"def":100,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[144,768],"atk":0,"def":0,"agi":50,"fs":0,"ss":70,"ws":0,"rs":0,"ts":30},
   {"heroes":[25,73],"atk":0,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":50},
-  {"heroes":[817,1064,1009],"atk":0,"def":100,"agi":-50,"fs":0,"ss":0,"ws":100,"rs":0,"ts":50}
+  {"heroes":[817,1064,1009],"atk":0,"def":100,"agi":-50,"fs":0,"ss":0,"ws":100,"rs":0,"ts":50},
+  {"heroes":[56,78],"atk":0,"def":0,"agi":100,"fs":0,"ss":0,"ws":30,"rs":20,"ts":0},
+  {"heroes":[64,129],"atk":-50,"def":80,"agi":20,"fs":30,"ss":30,"ws":0,"rs":30,"ts":0}
 ],
   "comprehend":
 [
