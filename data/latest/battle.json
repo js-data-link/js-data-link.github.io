@@ -1396,7 +1396,7 @@
   {"id":1394,"name":"李焚陆庄","field":180,"bgm":95,"friends":[2198],"teams":[],"enemies":[843,625],"events":[3040]},
   {"id":1395,"name":"李战斗酒","field":180,"bgm":95,"friends":[2198],"teams":[],"enemies":[480],"events":[3040]},
   {"id":1396,"name":"李镜斗酒","field":180,"bgm":95,"friends":[161],"teams":[0],"enemies":[480],"events":[3040]},
-  {"id":1397,"name":"郭靖乔峰","field":51,"bgm":95,"friends":[],"teams":[1334],"enemies":[50],"events":[3022]},
+  {"id":1397,"name":"郭靖乔峰","field":51,"bgm":95,"friends":[],"teams":[0],"enemies":[50],"events":[3022]},
   {"id":1398,"name":"黄蓉瑛姑","field":21,"bgm":100,"friends":[],"teams":[56],"enemies":[1948],"events":[3047]},
   {"id":1399,"name":"黑龙潭战","field":198,"bgm":100,"friends":[],"teams":[0,56],"enemies":[312,2166,2167,2168,2169,2170,2171,2172,2164,2165,509,2173,2174,2175,2176],"events":[3046]},
   {"id":1400,"name":"救瑛姑","field":48,"bgm":100,"friends":[1948],"teams":[0],"enemies":[67],"events":[3070]}
