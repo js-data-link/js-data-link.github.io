@@ -184,7 +184,9 @@
   {"itemId":991,"matchSkillId":683,"power":400},
   {"itemId":992,"matchSkillId":334,"power":500},
   {"itemId":994,"matchSkillId":376,"power":300},
-  {"itemId":995,"matchSkillId":80,"power":300}
+  {"itemId":995,"matchSkillId":80,"power":300},
+  {"itemId":31,"matchSkillId":436,"power":400},
+  {"itemId":31,"matchSkillId":83,"power":300}
 ],
   "match2":
 [
@@ -811,7 +813,7 @@
   {"skillId":927,"matchSkillId":1028,"power":200},
   {"skillId":960,"matchSkillId":1028,"power":300},
   {"skillId":932,"matchSkillId":1028,"power":300},
-  {"skillId":748,"matchSkillId":1028,"power":200},
+  {"skillId":750,"matchSkillId":1028,"power":200},
   {"skillId":928,"matchSkillId":205,"power":200},
   {"skillId":749,"matchSkillId":205,"power":200},
   {"skillId":983,"matchSkillId":205,"power":300},
@@ -991,13 +993,15 @@
   {"heroes":[1015,1026,1049,1050],"atk":0,"def":0,"agi":0,"fs":100,"ss":100,"ws":0,"rs":100,"ts":100},
   {"heroes":[1055,1025],"atk":100,"def":130,"agi":0,"fs":20,"ss":100,"ws":20,"rs":20,"ts":20},
   {"heroes":[1051,1054],"atk":0,"def":200,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
-  {"heroes":[2481,2651,2519,2652],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
+  {"heroes":[2481,2651,2519,2652,2653],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
   {"heroes":[2482,2667],"atk":100,"def":100,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[144,768],"atk":0,"def":0,"agi":50,"fs":0,"ss":70,"ws":0,"rs":0,"ts":30},
   {"heroes":[25,73],"atk":0,"def":50,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":50},
   {"heroes":[817,1064,1009],"atk":0,"def":100,"agi":-50,"fs":0,"ss":0,"ws":100,"rs":0,"ts":50},
   {"heroes":[56,78],"atk":0,"def":0,"agi":100,"fs":0,"ss":0,"ws":30,"rs":20,"ts":0},
-  {"heroes":[64,129],"atk":-50,"def":80,"agi":20,"fs":30,"ss":30,"ws":0,"rs":30,"ts":0}
+  {"heroes":[64,129],"atk":-50,"def":80,"agi":20,"fs":30,"ss":30,"ws":0,"rs":30,"ts":0},
+  {"heroes":[136,229],"atk":0,"def":0,"agi":100,"fs":0,"ss":100,"ws":0,"rs":0,"ts":0},
+  {"heroes":[136,1334],"atk":50,"def":50,"agi":50,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0}
 ],
   "comprehend":
 [
