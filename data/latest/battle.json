@@ -1328,7 +1328,7 @@
   {"id":1326,"name":"黄河四鬼","field":32,"bgm":95,"friends":[],"teams":[],"enemies":[2311,2312,2313,2314,693,363,676],"events":[2962]},
   {"id":1327,"name":"战马钰","field":32,"bgm":95,"friends":[],"teams":[0],"enemies":[123],"events":[2963]},
   {"id":1328,"name":"汗血宝马","field":6,"bgm":95,"friends":[2129],"teams":[],"enemies":[2480],"events":[2964]},
-  {"id":1329,"name":"战七怪","field":6,"bgm":95,"friends":[],"teams":[0,1334],"enemies":[131,130,132,133,135,2508],"events":[2966]},
+  {"id":1329,"name":"战七怪","field":6,"bgm":95,"friends":[],"teams":[],"enemies":[131,130,132,133,135,2508],"events":[2966]},
   {"id":1330,"name":"本因方丈","field":180,"bgm":100,"friends":[2198,121],"teams":[],"enemies":[597],"events":[2977]},
   {"id":1331,"name":"公孙越女","field":6,"bgm":95,"friends":[2508],"teams":[0,1334],"enemies":[931],"events":[2968]},
   {"id":1332,"name":"大理三将","field":180,"bgm":100,"friends":[],"teams":[0],"enemies":[120,119,122],"events":[2977]},
