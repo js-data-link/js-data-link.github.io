@@ -770,7 +770,7 @@
   {"id":768,"name":"襄儿郭襄","field":33,"bgm":113,"friends":[],"teams":[101],"enemies":[2501],"events":[2108]},
   {"id":769,"name":"人参","field":85,"bgm":95,"friends":[],"teams":[],"enemies":[862],"events":[1025]},
   {"id":770,"name":"雪莲","field":85,"bgm":95,"friends":[],"teams":[],"enemies":[603],"events":[1006]},
-  {"id":771,"name":"灵芝","field":85,"bgm":95,"friends":[],"teams":[],"enemies":[906],"events":[1035]},
+  {"id":771,"name":"灵芝","field":85,"bgm":95,"friends":[],"teams":[],"enemies":[906],"events":[1020,1035]},
   {"id":772,"name":"函谷八友","field":53,"bgm":94,"friends":[],"teams":[],"enemies":[45,536,630,631,632,635,634,633],"events":[1050]},
   {"id":773,"name":"龙泉宝剑","field":149,"bgm":95,"friends":[],"teams":[0],"enemies":[810],"events":[1068]},
   {"id":774,"name":"河间双煞","field":160,"bgm":102,"friends":[],"teams":[],"enemies":[557,558,1117,1118,1119,1120],"events":[1063]},
