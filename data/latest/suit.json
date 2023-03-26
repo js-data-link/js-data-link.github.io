@@ -154,7 +154,7 @@
   "152":{"id":152,"weaponId":950,"armorId":951,"petId":952,"bsId":927,"fsId":746,"atk":"","def":250,"agi":"","fs":"","ss":"","ws":"","rs":"","ts":"","talentId":796,"name":"公主套装","suitKey":"950-951-952"},
   "153":{"id":153,"weaponId":954,"armorId":638,"petId":281,"bsId":961,"fsId":750,"atk":"","def":"","agi":100,"fs":"","ss":"","ws":"","rs":150,"ts":"","talentId":563,"name":"山海套装","suitKey":"954-638-281"},
   "154":{"id":154,"weaponId":955,"armorId":956,"petId":957,"bsId":961,"fsId":749,"atk":-50,"def":"","agi":300,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":588,"name":"言弹套装","suitKey":"955-956-957"},
-  "155":{"id":155,"weaponId":958,"armorId":864,"petId":714,"bsId":983,"fsId":928,"atk":"","def":"","agi":"","fs":"","ss":"","ws":"","rs":250,"ts":"","talentId":193,"name":"藏剑套装","suitKey":"958-864-714"},
+  "155":{"id":155,"weaponId":958,"armorId":1005,"petId":1006,"bsId":983,"fsId":928,"atk":"","def":"","agi":"","fs":"","ss":"","ws":"","rs":250,"ts":"","talentId":193,"name":"朔相套装","suitKey":"958-1005-1006"},
   "156":{"id":156,"weaponId":959,"armorId":667,"petId":762,"bsId":1081,"fsId":749,"atk":"","def":"","agi":250,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":627,"name":"天夜套装","suitKey":"959-667-762"},
   "157":{"id":157,"weaponId":960,"armorId":961,"petId":962,"bsId":1082,"fsId":748,"atk":250,"def":"","agi":"","fs":"","ss":"","ws":"","rs":"","ts":"","talentId":870,"name":"没羽套装","suitKey":"960-961-962"},
   "158":{"id":158,"weaponId":963,"armorId":938,"petId":955,"bsId":961,"fsId":749,"atk":100,"def":"","agi":150,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":807,"name":"魔星套装","suitKey":"963-938-955"},
