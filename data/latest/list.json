@@ -1007,7 +1007,7 @@
   "comprehend":
 [
   {"skillIds":[48,261,455],"comprehendSkillId":103},
-  {"skillIds":[45,713,327],"comprehendSkillId":1806},
+  {"skillIds":[45,713,183],"comprehendSkillId":1806},
   {"skillIds":[91,41,264],"comprehendSkillId":1179},
   {"skillIds":[447,261,330],"comprehendSkillId":1144},
   {"skillIds":[49,458,84],"comprehendSkillId":107},
