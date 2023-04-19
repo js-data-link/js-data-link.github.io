@@ -832,7 +832,9 @@
   {"skillId":937,"matchSkillId":353,"power":300},
   {"skillId":723,"matchSkillId":353,"power":300},
   {"skillId":738,"matchSkillId":183,"power":300},
-  {"skillId":956,"matchSkillId":183,"power":300}
+  {"skillId":956,"matchSkillId":183,"power":300},
+  {"skillId":960,"matchSkillId":556,"power":300},
+  {"skillId":1081,"matchSkillId":556,"power":300}
 ],
   "formation":
 [
