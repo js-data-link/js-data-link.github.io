@@ -183,5 +183,6 @@
   "181":{"id":181,"weaponId":1003,"armorId":57,"petId":287,"bsId":953,"fsId":738,"atk":-50,"def":50,"agi":30,"fs":20,"ss":"","ws":100,"rs":"","ts":"","talentId":820,"name":"黄蓉套装","suitKey":"1003-57-287"},
   "182":{"id":182,"weaponId":997,"armorId":432,"petId":616,"bsId":162,"fsId":163,"atk":"","def":"","agi":"","fs":50,"ss":50,"ws":50,"rs":50,"ts":50,"talentId":789,"name":"次元套装","suitKey":"997-432-616"},
   "183":{"id":183,"weaponId":402,"armorId":224,"petId":1011,"bsId":1110,"fsId":-1,"atk":100,"def":100,"agi":-100,"fs":100,"ss":"","ws":"","rs":"","ts":"","talentId":1107,"name":"女娲套装","suitKey":"402-224-1011"},
-  "184":{"id":184,"weaponId":74,"armorId":681,"petId":664,"bsId":284,"fsId":726,"atk":"","def":"","agi":100,"fs":"","ss":"","ws":"","rs":50,"ts":"","talentId":1108,"name":"风云套装","suitKey":"74-681-664"}
+  "184":{"id":184,"weaponId":74,"armorId":681,"petId":664,"bsId":284,"fsId":726,"atk":"","def":"","agi":100,"fs":"","ss":"","ws":"","rs":50,"ts":"","talentId":1108,"name":"风云套装","suitKey":"74-681-664"},
+  "185":{"id":185,"weaponId":1019,"armorId":520,"petId":714,"bsId":1081,"fsId":188,"atk":"","def":50,"agi":200,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":620,"name":"龙虎套装","suitKey":"1019-520-714"}
 }

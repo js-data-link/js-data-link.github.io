@@ -187,7 +187,8 @@
   {"itemId":995,"matchSkillId":80,"power":300},
   {"itemId":31,"matchSkillId":436,"power":400},
   {"itemId":31,"matchSkillId":83,"power":300},
-  {"itemId":1003,"matchSkillId":458,"power":400}
+  {"itemId":1003,"matchSkillId":458,"power":400},
+  {"itemId":1019,"matchSkillId":574,"power":500}
 ],
   "match2":
 [
@@ -1080,6 +1081,7 @@
   {"skillIds":[326,315,316],"comprehendSkillId":1496},
   {"skillIds":[574,189,187],"comprehendSkillId":1490},
   {"skillIds":[171,76,77],"comprehendSkillId":89},
-  {"skillIds":[73,247,171],"comprehendSkillId":248}
+  {"skillIds":[73,247,171],"comprehendSkillId":248},
+  {"skillIds":[574,189,188],"comprehendSkillId":173}
 ]
 }
