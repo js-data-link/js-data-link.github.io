@@ -188,7 +188,8 @@
   {"itemId":31,"matchSkillId":436,"power":400},
   {"itemId":31,"matchSkillId":83,"power":300},
   {"itemId":1003,"matchSkillId":458,"power":400},
-  {"itemId":1019,"matchSkillId":574,"power":500}
+  {"itemId":1019,"matchSkillId":574,"power":500},
+  {"itemId":1020,"matchSkillId":574,"power":500}
 ],
   "match2":
 [
@@ -995,7 +996,7 @@
   {"heroes":[1337,1941,2530,2520,2531],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
   {"heroes":[836,988],"atk":100,"def":100,"agi":0,"fs":50,"ss":0,"ws":50,"rs":0,"ts":0},
   {"heroes":[2537,1943,2591],"atk":150,"def":150,"agi":150,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
-  {"heroes":[1879,2556,2557,2558],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
+  {"heroes":[0,2556,2557,1000],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
   {"heroes":[2305,1331,2518,2559],"atk":100,"def":100,"agi":100,"fs":100,"ss":100,"ws":100,"rs":100,"ts":100},
   {"heroes":[2493,2560],"atk":100,"def":100,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[2257,2578],"atk":100,"def":100,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
@@ -1079,9 +1080,7 @@
   {"skillIds":[415,302,317],"comprehendSkillId":1431},
   {"skillIds":[482,772,306],"comprehendSkillId":1260},
   {"skillIds":[326,315,316],"comprehendSkillId":1496},
-  {"skillIds":[574,189,187],"comprehendSkillId":1490},
-  {"skillIds":[171,76,77],"comprehendSkillId":89},
-  {"skillIds":[73,247,171],"comprehendSkillId":248},
-  {"skillIds":[574,189,188],"comprehendSkillId":173}
+  {"skillIds":[171,73,247],"comprehendSkillId":248},
+  {"skillIds":[171,76,77],"comprehendSkillId":89}
 ]
 }

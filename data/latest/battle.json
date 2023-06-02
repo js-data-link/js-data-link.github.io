@@ -1419,8 +1419,12 @@
   {"id":1417,"name":"岳飞冲阵","field":165,"bgm":110,"friends":[353],"teams":[],"enemies":[1636,1638,1638,1639,1634,1640],"events":[978]},
   {"id":1418,"name":"青城挖宝","field":85,"bgm":95,"friends":[],"teams":[],"enemies":[1072],"events":[1020]},
   {"id":1419,"name":"清微试炼","field":85,"bgm":91,"friends":[],"teams":[0],"enemies":[1074,999,928,415],"events":[1623]},
-  {"id":1420,"name":"真武试炼","field":43,"bgm":43,"friends":[],"teams":[0],"enemies":[613,213,5,999,928,415,667,473,1074,129,5,928,1000,999,998],"events":[1092]},
+  {"id":1420,"name":"真武试炼","field":43,"bgm":43,"friends":[],"teams":[0],"enemies":[613,213,5,999,928,415,667,473,1074,129,64,988,1000,477,998],"events":[1092]},
   {"id":1421,"name":"道门试炼","field":84,"bgm":43,"friends":[2125,2506],"teams":[0,229],"enemies":[613,213,5,834,116,415,667,473,1074,129],"events":[2479]},
   {"id":1422,"name":"青城大隐","field":85,"bgm":91,"friends":[],"teams":[0,229],"enemies":[1017,480],"events":[2478]},
-  {"id":1423,"name":"嵩山王林","field":151,"bgm":91,"friends":[1017],"teams":[],"enemies":[129,2108],"events":[2478]}
+  {"id":1423,"name":"嵩山王林","field":151,"bgm":91,"friends":[1017],"teams":[],"enemies":[129,2108],"events":[2478]},
+  {"id":1424,"name":"七侠试炼","field":43,"bgm":43,"friends":[],"teams":[0],"enemies":[293,342,172,296,297,294,306],"events":[1090]},
+  {"id":1425,"name":"清微青城","field":84,"bgm":95,"friends":[],"teams":[0],"enemies":[9,49,5,480,114,415],"events":[1091]},
+  {"id":1426,"name":"青城清微","field":85,"bgm":95,"friends":[],"teams":[0],"enemies":[928,2399],"events":[1020]},
+  {"id":1427,"name":"清微试炼","field":85,"bgm":95,"friends":[],"teams":[0],"enemies":[9,49],"events":[1091]}
 ]
