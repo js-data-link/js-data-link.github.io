@@ -11,7 +11,7 @@
   "9":{"id":9,"weaponId":484,"armorId":67,"petId":226,"bsId":274,"fsId":-1,"atk":"","def":"","agi":50,"fs":"","ss":"","ws":"","rs":"","ts":50,"talentId":851,"name":"射雕套装","suitKey":"484-67-226"},
   "10":{"id":10,"weaponId":610,"armorId":70,"petId":737,"bsId":760,"fsId":-1,"atk":50,"def":"","agi":50,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":1037,"name":"金刀套装","suitKey":"610-70-737"},
   "11":{"id":11,"weaponId":425,"armorId":516,"petId":281,"bsId":272,"fsId":723,"atk":"","def":"","agi":"","fs":20,"ss":20,"ws":20,"rs":20,"ts":20,"talentId":968,"name":"桃花套装","suitKey":"425-516-281"},
-  "12":{"id":12,"weaponId":34,"armorId":57,"petId":288,"bsId":267,"fsId":960,"atk":-70,"def":60,"agi":60,"fs":"","ss":"","ws":100,"rs":"","ts":"","talentId":816,"name":"璇玑套装","suitKey":"34-57-288"},
+  "12":{"id":12,"weaponId":34,"armorId":57,"petId":288,"bsId":267,"fsId":960,"atk":-70,"def":60,"agi":60,"fs":"","ss":"","ws":100,"rs":"","ts":"","talentId":820,"name":"璇玑套装","suitKey":"34-57-288"},
   "13":{"id":13,"weaponId":33,"armorId":61,"petId":279,"bsId":273,"fsId":726,"atk":"","def":"","agi":50,"fs":"","ss":"","ws":"","rs":"","ts":50,"talentId":844,"name":"小宝套装","suitKey":"33-61-279"},
   "14":{"id":14,"weaponId":851,"armorId":526,"petId":286,"bsId":271,"fsId":-1,"atk":40,"def":"","agi":"","fs":"","ss":"","ws":60,"rs":"","ts":"","talentId":809,"name":"铁枪套装","suitKey":"851-526-286"},
   "15":{"id":15,"weaponId":36,"armorId":514,"petId":277,"bsId":966,"fsId":504,"atk":50,"def":"","agi":"","fs":80,"ss":70,"ws":"","rs":"","ts":"","talentId":784,"name":"西狂套装","suitKey":"36-514-277"},
@@ -180,11 +180,11 @@
   "178":{"id":178,"weaponId":988,"armorId":638,"petId":277,"bsId":174,"fsId":1104,"atk":300,"def":"","agi":-50,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":208,"name":"天帝套装","suitKey":"988-638-277"},
   "179":{"id":179,"weaponId":985,"armorId":986,"petId":987,"bsId":186,"fsId":191,"atk":"","def":"","agi":"","fs":"","ss":"","ws":250,"rs":"","ts":"","talentId":220,"name":"文龙套装","suitKey":"985-986-987"},
   "180":{"id":180,"weaponId":997,"armorId":998,"petId":999,"bsId":1081,"fsId":746,"atk":"","def":"","agi":"","fs":50,"ss":50,"ws":50,"rs":50,"ts":50,"talentId":806,"name":"希卡套装","suitKey":"997-998-999"},
-  "181":{"id":181,"weaponId":1003,"armorId":57,"petId":287,"bsId":953,"fsId":738,"atk":-50,"def":50,"agi":30,"fs":20,"ss":"","ws":100,"rs":"","ts":"","talentId":820,"name":"黄蓉套装","suitKey":"1003-57-287"},
+  "181":{"id":181,"weaponId":1003,"armorId":57,"petId":287,"bsId":953,"fsId":738,"atk":-50,"def":50,"agi":30,"fs":20,"ss":"","ws":100,"rs":"","ts":"","talentId":816,"name":"黄蓉套装","suitKey":"1003-57-287"},
   "182":{"id":182,"weaponId":997,"armorId":432,"petId":616,"bsId":162,"fsId":163,"atk":"","def":"","agi":"","fs":50,"ss":50,"ws":50,"rs":50,"ts":50,"talentId":789,"name":"次元套装","suitKey":"997-432-616"},
   "183":{"id":183,"weaponId":402,"armorId":224,"petId":1011,"bsId":1110,"fsId":-1,"atk":100,"def":100,"agi":-100,"fs":100,"ss":"","ws":"","rs":"","ts":"","talentId":1107,"name":"女娲套装","suitKey":"402-224-1011"},
   "184":{"id":184,"weaponId":74,"armorId":681,"petId":664,"bsId":284,"fsId":726,"atk":"","def":"","agi":100,"fs":"","ss":"","ws":"","rs":50,"ts":"","talentId":1108,"name":"风云套装","suitKey":"74-681-664"},
   "185":{"id":185,"weaponId":1019,"armorId":520,"petId":714,"bsId":1081,"fsId":188,"atk":"","def":50,"agi":200,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":621,"name":"龙虎套装","suitKey":"1019-520-714"},
   "186":{"id":186,"weaponId":935,"armorId":432,"petId":1020,"bsId":189,"fsId":187,"atk":"","def":50,"agi":200,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":573,"name":"天师套装","suitKey":"935-432-1020"},
-  "187":{"id":187,"weaponId":760,"armorId":529,"petId":1020,"bsId":1082,"fsId":188,"atk":"","def":50,"agi":200,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":806,"name":"明一套装","suitKey":"760-529-1020"}
+  "187":{"id":187,"weaponId":90,"armorId":528,"petId":1020,"bsId":1082,"fsId":188,"atk":"","def":50,"agi":200,"fs":"","ss":"","ws":"","rs":"","ts":"","talentId":806,"name":"明一套装","suitKey":"90-528-1020"}
 }
