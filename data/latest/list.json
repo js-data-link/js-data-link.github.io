@@ -872,7 +872,8 @@
   {"skillId":269,"matchSkillId":155,"power":300},
   {"skillId":750,"matchSkillId":155,"power":300},
   {"skillId":938,"matchSkillId":155,"power":200},
-  {"skillId":932,"matchSkillId":155,"power":200}
+  {"skillId":932,"matchSkillId":155,"power":200},
+  {"skillId":769,"matchSkillId":464,"power":200}
 ],
   "formation":
 [
@@ -1025,7 +1026,7 @@
   {"heroes":[951,1013,819],"atk":100,"def":-50,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[1015,1019],"atk":50,"def":0,"agi":0,"fs":0,"ss":0,"ws":0,"rs":0,"ts":150},
   {"heroes":[859,1015,1026,1049,1050],"atk":100,"def":200,"agi":-100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
-  {"heroes":[1025,1017,1039,772,778,1043],"atk":0,"def":0,"agi":0,"fs":50,"ss":100,"ws":0,"rs":0,"ts":50},
+  {"heroes":[1025,1043,1039,772,778],"atk":0,"def":0,"agi":0,"fs":50,"ss":100,"ws":0,"rs":0,"ts":50},
   {"heroes":[831,935,649],"atk":100,"def":50,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[2465,787],"atk":0,"def":50,"agi":100,"fs":0,"ss":0,"ws":0,"rs":0,"ts":0},
   {"heroes":[455,820],"atk":100,"def":0,"agi":0,"fs":150,"ss":0,"ws":0,"rs":0,"ts":0},
